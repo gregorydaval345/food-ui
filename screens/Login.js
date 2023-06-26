@@ -38,8 +38,9 @@ const Login = ({ navigation }) => {
                 ...FONTS.largeTitle,
               }}
             >
-              Welcome to{" "}
-              <Text style={{ color: "green", fontSize: 45 }}>pH</Text> Nutrition
+              {/* Welcome to{" "} */}
+              <Text style={{ color: "green", fontSize: 45 }}>Bison</Text>{" "}
+              Nutrition
             </Text>
           </LinearGradient>
         </ImageBackground>
